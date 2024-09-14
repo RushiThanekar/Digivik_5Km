@@ -1,0 +1,1 @@
+var json_digivik_2 = {"type":"FeatureCollection","name":"digivik_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"name":"Digivik"},"geometry":{"type":"Point","coordinates":[73.901850300703799,18.478987056466391]}}]}
